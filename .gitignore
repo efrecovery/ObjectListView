@@ -186,3 +186,6 @@ FakesAssemblies/
 
 # Windows
 Thumbs.db
+
+#Other
+.vs/
