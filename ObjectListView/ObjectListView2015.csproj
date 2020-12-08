@@ -111,6 +111,9 @@
     <Compile Include="Rendering\TreeRenderer.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="SubControls\FastListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="SubControls\ToolStripCheckedListBox.cs">
       <SubType>Component</SubType>
     </Compile>
