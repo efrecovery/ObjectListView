@@ -2,10 +2,10 @@
 <package >
   <metadata>
     <id>ObjectListView.Official</id>
-    <title>ObjectListView (Official)</title>
-    <version>2.9.1</version>
-    <authors>Phillip Piper</authors>
-    <owners>Phillip Piper</owners>
+    <title>ObjectListView (EFR)</title>
+    <version>2.9.2</version>
+    <authors>Rob Platt</authors>
+    <owners>Rob Platt</owners>
     <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
     <projectUrl>http://objectlistview.sourceforge.net</projectUrl>
     <iconUrl>http://objectlistview.sourceforge.net/cs/_static/index-icon.png</iconUrl>
